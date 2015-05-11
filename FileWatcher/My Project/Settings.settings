@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="WatchPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Pc019_fs1\pc019_data\General Data\Access Documents\Backends</Value>
+    </Setting>
+    <Setting Name="WatchFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">REC_INSP_DATA_KD.laccdb</Value>
+    </Setting>
+    <Setting Name="clrText" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DeepSkyBlue</Value>
+    </Setting>
+    <Setting Name="clrChanged" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="clrDeleted" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
